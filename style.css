@@ -148,3 +148,13 @@ body{
         align-items:center;
     }
 }
+
+#contato a{
+    color:#ff2fb3;
+    text-decoration:none;
+    transition:0.3s;
+}
+
+#contato a:hover{
+    text-shadow:0 0 10px #ff2fb3;
+}
